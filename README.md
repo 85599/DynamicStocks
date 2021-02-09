@@ -19,7 +19,7 @@ Get the latest stock data.
   * [https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04) 
 
 
-DynamicStocks helps in assessing monetary risk associated with different stocks (NASDAQ stocks currently). The application is hosted on a GCP VM temporarily for demonstration purpose.
+DynamicStocks helps in assessing monetary risk associated with different stocks (NASDAQ stocks currently). The application is hosted on a ShinyApps for demonstration purpose.
 This web address is likely to change in near future.
 
 The codes behind the application (local app version) is also part of the repository. The UI of the app was developed keeping large screen devices, like laptop or desktop, in mind and hence the app UI is not suitable for mobile or tablet devices (you can still use it by changing the setting in the mobile browser to "Desktop Site" but there will be a skew here and there).
