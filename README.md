@@ -1,6 +1,6 @@
 # DynamicStocks
 
-## Live Sttaus: 
+## [Live Status](https://khushaljain1.shinyapps.io/DynamicStock-master/): 
 
 If you are ready to maximize your stock knowledge then [DyamicStocks](https://khushaljain1.shinyapps.io/DynamicStock-master/) is the web app for you.
 
